@@ -1,4 +1,4 @@
-## Hi, I'm clouded ☁️
+# Hi, I'm clouded ☁️
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, C#
 - **Web:** HTML, CSS, React, Node.js  
