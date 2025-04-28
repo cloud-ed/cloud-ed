@@ -6,7 +6,7 @@ I'm a passionate developer building a career in web development and software eng
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python 🐍 | JavaScript ⚡ | TypeScript | C# 🔷  
+- **Languages:** Python 🐍 | JavaScript ⚡ | TypeScript 🛡️ | C# 🔷  
 - **Frontend:** HTML5 | CSS3 | React.js ⚛️  
 - **Backend:** Node.js | Express.js  
 - **Database:** MySQL 🐬  
