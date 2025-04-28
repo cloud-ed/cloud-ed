@@ -6,7 +6,7 @@ I'm a passionate developer building a career in web development and software eng
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python 🐍 | JavaScript ⚡ | C# 🔷  
+- **Languages:** Python 🐍 | JavaScript ⚡ | TypeScript | C# 🔷  
 - **Frontend:** HTML5 | CSS3 | React.js ⚛️  
 - **Backend:** Node.js | Express.js  
 - **Database:** MySQL 🐬  
@@ -30,7 +30,7 @@ I'm a passionate developer building a career in web development and software eng
 
 ### 📈 GitHub Stats
 
-![Clouded's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-ed&show_icons=true&theme=radical)
+![Clouded's GitHub stats]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ed&layout=donut)](https://github.com/anuraghazra/github-readme-stats))
 
 ---
 
