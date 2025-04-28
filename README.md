@@ -30,8 +30,7 @@ I'm a passionate developer building a career in web development and software eng
 
 ### 📈 GitHub Stats
 
-![Clouded's GitHub stats]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ed&layout=donut)](https://github.com/anuraghazra/github-readme-stats))
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ed&layout=donut)
 ---
 
 ### ✉️ Let's Connect
