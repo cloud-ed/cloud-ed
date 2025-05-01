@@ -18,4 +18,4 @@ I'm a passionate developer building a career in web development and software eng
 - [LinkedIn]()  
 - [Portfolio Website]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ed&layout=donut&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ed&layout=donut&theme=tokyonight)
