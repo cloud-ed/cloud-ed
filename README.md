@@ -1,6 +1,6 @@
 # Hi, I'm clouded ☁️
 
-I'm a passionate developer building a career in web development and software engineering. I love creating responsive, dynamic applications and continuously learning new technologies to improve my craft.
+I'm a passionate developer building a career in web development and software engineering. I love learning new things and applying them.
 
 ---
 
