@@ -1,6 +1,6 @@
-# Hi, I'm clouded ☁️
+# Hi, I'm Josh (clouded) ☁️
 
-I'm a passionate developer building a career in web development and software engineering. I love learning new things and applying them.
+I'm a passionate developer building a career in web development and software engineering. I love learning new things.
 
 ---
 
