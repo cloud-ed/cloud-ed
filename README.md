@@ -15,7 +15,7 @@ I'm a passionate developer building a career in web development and software eng
 
 ### ✉️ Let's Connect
 
-- [LinkedIn]()  
+- [LinkedIn](https://www.linkedin.com/in/joshmilburn/)  
 - [Portfolio Website](https://portfolio-clouded.vercel.app/)
 ---
 
