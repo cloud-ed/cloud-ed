@@ -15,7 +15,10 @@ I'm a passionate developer building a career in web development and software eng
 
 ### ✉️ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshmilburn/)  
+<a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 - [Portfolio Website](https://portfolio-clouded.vercel.app/)
 ---
 
